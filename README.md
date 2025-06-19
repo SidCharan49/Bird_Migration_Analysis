@@ -64,13 +64,3 @@ To visualize and extract actionable insights from bird migration data, including
 
 ---
 
-## 📌 Resume Summary (Include in Your CV)
-
-**Bird Migration Analysis | Power BI**  
-- Analyzed 10K+ bird journeys to extract trends across species, distance, and migration success  
-- Built a fully interactive Power BI dashboard with visual insights into weather, speed, regions, and flock behavior  
-- Identified migration interruptions (storms, predators) and environmental impact  
-- Delivered actionable insights for ecological planning and species conservation
-
----
-
