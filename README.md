@@ -51,7 +51,7 @@ To visualize and extract actionable insights from bird migration data, including
 - `Bird_Migration_Analysis.pbix` → Power BI report file  
 - `Bird_Migration_Analysis.pdf` → Printable dashboard export  
 - `bird_migration_data.csv` → Source dataset  
-- `Screenshots/` → Dashboard image exports (for GitHub README)
+- `Screenshots/` → Dashboard image exports
 
 ---
 
